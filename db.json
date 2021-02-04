@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "Pizza",
+      "precio": "15",
+      "id": 1
+    },
+    {
+      "nombre": "Tequila",
+      "precio": "15",
+      "id": 2
+    },
+    {
+      "nombre": "Jugo de piña",
+      "precio": "5",
+      "id": 3
+    },
+    {
+      "nombre": "Vino",
+      "precio": 25,
+      "id": 4
+    },
+    {
+      "nombre": "koko",
+      "precio": 4545,
+      "id": 5
+    }
+  ]
+}
